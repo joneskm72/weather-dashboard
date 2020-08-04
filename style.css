@@ -1,0 +1,14 @@
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+#forecast {
+    display: flex;
+    flex-direction: coulmn;
+}
+
+.weather-image {
+    height: 100px;
+    width: 100px;
+}
