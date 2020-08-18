@@ -1,6 +1,8 @@
 #Weather Dashboard
 
-A weather dashboard that will run in the browser and feature dynamically updated HTML and CSS. Uses the OpenWeather API to retrieve weather data for cities. The documentation includes a section called "How to start" that provides basic setup and usage instructions. Uses localStorage to store any persistent data.
+A weather dashboard that will run in the browser and feature dynamically updated HTML, JavaScript, and CSS. Uses the OpenWeather API to retrieve weather data for cities. The documentation includes a section called "How to start" that provides basic setup and usage instructions. Uses localStorage to store any persistent data.
+
+Technologies used: HTML, JavaScript, CSS, JQuery
 
 User Story:
 
@@ -27,3 +29,7 @@ THEN I am presented with the last searched city forecast
 <img src="assets/weather-dashboard.png" width="400">
 
 Deployed application: https://joneskm72.github.io/server-side-apis-hw6/
+
+Contact: jones.m.kasey@gmail.com
+
+License: MIT
