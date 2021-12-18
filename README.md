@@ -2,7 +2,7 @@
 
 ## About
 
-A weather dashboard that will run in the browser and feature dynamically updated HTML, JavaScript, and CSS. Uses the OpenWeather API to retrieve weather data for cities. The documentation includes a section called "How to start" that provides basic setup and usage instructions. Uses localStorage to store any persistent data.
+A weather dashboard that will run in the browser and feature dynamically-updated HTML, JavaScript, and CSS. Uses the OpenWeather API to retrieve weather data for cities. The documentation includes a section called "How to start" that provides basic setup and usage instructions. Uses localStorage to store any persistent data.
 
 ## Technologies Used
 
@@ -10,9 +10,7 @@ HTML, JavaScript, CSS, JQuery
 
 ## User Story
 
-AS A traveler
-I WANT to see the weather outlook for multiple cities
-SO THAT I can plan a trip accordingly
+As a traveler, I want to see the weather outlook for multiple cities so that I can plan a trip accordingly
 
 <img src="assets/weather-dashboard.png" width="400">
 
