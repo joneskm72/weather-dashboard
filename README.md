@@ -23,9 +23,9 @@ As a traveler, I want to see the weather outlook for multiple cities so that I c
 
 ## Contact
 
-* Email: jones.m.kasey@gmail.com
+Email: jones.m.kasey@gmail.com
 
-* GitHub: https://github.com/joneskm72
+GitHub: https://github.com/joneskm72
 
 ## License
 
